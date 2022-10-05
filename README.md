@@ -1,4 +1,4 @@
-# ****For each ****
+# **** Map ****
 
-Es un método que recorre varios elementos de un array, no imoprta cuántos elementos tenga dicho array.
+Este método nos crea un nuevo arreglo llamando a una función para cada elemento que tenemos en el arreglo, dicho esto, no nos cambia el arreglo original.
 
