@@ -1,4 +1,8 @@
 
-let hogar = [" Mueble ", " Televisor ", " PC ", " Cama " , " Estufa "];
-let filtrar = hogar.filter(hogar => hogar.length > 6 );
-alert(filtrar);
+let hogar = "JavaScript es lo mejor";
+let buscar = hogar.search("mejor");
+alert(buscar);
+
+
+
+
