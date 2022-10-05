@@ -1,4 +1,4 @@
-# **** Map ****
+# **** Filter ****
 
-Este método nos crea un nuevo arreglo llamando a una función para cada elemento que tenemos en el arreglo, dicho esto, no nos cambia el arreglo original.
+Este método nos crea un nuevo arreglo trayenose a todos los elementos que cumplen la condición que se integro a la función dada.
 
