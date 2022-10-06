@@ -1,3 +1,5 @@
+
+// Esto es son fuciones
 let Padre = () => {
 let num = 6;
     alert(num);
