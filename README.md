@@ -1,4 +1,4 @@
-# **** Iterar ****
+# **** Ciclo ****
 
-La iteración es la repetición de un segmento de codigo, donde más se usa es en las sentecias, while - for - do while.
+Un ciclo es una secuencia de código que se ejecuta varias veces, como les mencionaba anteriormente, esto va de la mano con la iteración, finaliza cuando la condición no se cumpla más.
 

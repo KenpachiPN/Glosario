@@ -1,13 +1,16 @@
 
 let suma = 0;
 let num = 2;
-for(let i1 = 1; i1 <= 5; i1++) {
-    for(let i = 1;  i <= num; i++) {
-        let nums = Number(prompt("Ingrese el # " + i ));
-            suma += nums;
-    alert("La suma de " + nums + " es " + suma);
+for(let i = 1;  i <= 5; i++) {
+    let nom = prompt("Ingrese su nombre");
+    let sueldo = Number(prompt(nom + " ,ingrese su sueldo"));
+    if(sueldo === 0 ){
+        break;
+    }
+    alert("El sueldo de Santiago es de: $" +sueldo);
+
 }
-}
+
 
 
 
