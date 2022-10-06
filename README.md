@@ -1,3 +1,3 @@
-# ****  Función expresiva  ****
+# ****  Función declarada  ****
 
-En esta su declaración se inicia con la palabra  var, ahí se originará una variable que guardará una función anónima.
+En esta se utiliza la palabra function al inicio para declarar la función.

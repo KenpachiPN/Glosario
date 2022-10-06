@@ -1,6 +1,6 @@
 
-var nombre = function(nombre){
+function saludar (nombre){
     alert(`Hola ${nombre}`)
 }
 
-nombre("Santiago");
+saludar("Santiago");
