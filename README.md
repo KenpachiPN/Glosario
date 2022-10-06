@@ -1,4 +1,4 @@
-# **** Función limpia ****
+# **** Nivel de Scope ****
 
-Esta consiste en hacer el código lo más rápido y abreviado posible, esto conlleva a que no se logré entender el código.
+Esto es el alcance que tiene cada vaiable de nuestro código, esto se ve como un bloque que contiene otros bloques.
 

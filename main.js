@@ -1,11 +1,12 @@
 
+// Acá observamos que el for contiene todo el bloque de código.
 for(let i = 1;  i <= 5; i++) {
-    let n = prompt("Ingrese su nombre");
-    let s = Number(prompt(n + " ,ingrese su sueldo"));
-    if(s === 0 ){
+    let nombre = prompt("Ingrese su nombre");
+    let sueldo = Number(prompt(nombre + " ,ingrese su sueldo"));
+    if(sueldo === 0 ){
         break;
     }
-    alert("El sueldo de Santiago es de: $" +s);
+    alert("El sueldo de Santiago es de: $" +sueldo);
 }
 
 
