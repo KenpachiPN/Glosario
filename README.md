@@ -1,3 +1,3 @@
-# **** Función ****
+# **** Separadores  ****
 
-Una función es un conjunto de instrucciones en un bloque de código que realizan una operación.
+Este método se usa para dividir una cadena por carácter y así crear una nueva matriz.
