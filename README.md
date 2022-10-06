@@ -1,4 +1,3 @@
-# **** Nivel de Scope ****
+# **** Clausula ****
 
-Esto es el alcance que tiene cada vaiable de nuestro código, esto se ve como un bloque que contiene otros bloques.
-
+Esta es una función la cuál tiene acceso a la dunción msa grande, inclusive cuando dicha función ya se haya ejecutado.
