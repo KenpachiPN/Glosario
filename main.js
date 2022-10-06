@@ -1,5 +1,4 @@
 
-let frase = "JavaScript es lo mejor";
-let separar = frase.split('');
-let mostrar = separar[1];
-alert(mostrar);
+let name =  prompt("Ingrese su nombre");
+let mostrar = mostrar => (name);
+    alert("Hola " + name);
