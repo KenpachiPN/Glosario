@@ -1,3 +1,3 @@
-# ****  Función flecha  ****
+# ****  Función expresiva  ****
 
-Esta es una alternativa de las fuciones tradicionales, lo que la hace más versátil y conlleva menos código, a su vez limita a no poderse usar en todo momento.
+En esta su declaración se inicia con la palabra  var, ahí se originará una variable que guardará una función anónima.
